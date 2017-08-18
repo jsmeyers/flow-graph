@@ -82,6 +82,7 @@ $(function() {
       },
       groups: {
         external: {color:{background:'#FF6666'}},
+        private: {color:{background:'#007aff'}},
         private: {color:{background:'#33CC33'}},
         multicast: {color:{background:'#FFFF00'}}
       }
