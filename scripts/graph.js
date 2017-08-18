@@ -5,7 +5,7 @@ setGroups('flowgraph', {
 });
 
 var links = {};
-var agingtime = 600000;
+var agingtime = 300000;
 
 setIntervalHandler(function() {
   var now = (new Date()).getTime();
